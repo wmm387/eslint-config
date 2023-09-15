@@ -14,8 +14,7 @@
     "src/index.js"
   ],
   "scripts": {
-    "release": "bumpp -r && pnpm -r publish",
-    "bumpp": "bumpp -r"
+    "release": "bumpp --no-push && pnpm publish"
   },
   "peerDependencies": {
     "eslint": ">=7.4.0"
