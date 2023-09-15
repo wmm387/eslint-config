@@ -22,7 +22,7 @@ module.exports = {
       },
     ],
     'arrow-parens': 'off',
-    curly: 'off',
+    'curly': 'off',
     'antfu/if-newline': 'off',
     'antfu/top-level-function': 'off',
     'no-restricted-globals': 'off',
