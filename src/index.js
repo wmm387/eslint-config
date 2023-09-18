@@ -26,5 +26,6 @@ module.exports = {
     'antfu/if-newline': 'off',
     'antfu/top-level-function': 'off',
     'no-restricted-globals': 'off',
+    'unicorn/prefer-number-properties': 'off',
   },
 }
